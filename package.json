@@ -1,0 +1,25 @@
+{
+  "name": "firebase-v9",
+  "version": "1.0.0",
+  "description": "firebase version 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chowon442/firebase-v9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chowon442/firebase-v9/issues"
+  },
+  "homepage": "https://github.com/chowon442/firebase-v9#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
